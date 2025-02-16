@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "384429394834",
+    "project_id": "tree-hack-uuxeoh",
+    "storage_bucket": "tree-hack-uuxeoh.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384429394834:android:36ce056facbd99bd25cf4b",
+        "android_client_info": {
+          "package_name": "com.mycompany.treehack"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvYrYlZ6kPgu_RtFGZ4Uwr2d8hu3S5lZ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
