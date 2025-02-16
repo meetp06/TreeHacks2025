@@ -1,0 +1,32 @@
+# Ignore .env files everywhere
+.env
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Ignore node_modules across the entire repo
+node_modules/
+
+# Ignore build output directories
+dist/
+dist-ssr/
+
+# Ignore files that may be local to the developer’s environment
+*.local
+
+# Ignore IDE/editor files (e.g., VSCode, IntelliJ, etc.)
+.vscode/*
+!.vscode/extensions.json  # Keep extensions.json for project-specific VSCode settings
+.idea/
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
